@@ -1,0 +1,6 @@
+order_id,order_date,customer_name,product_name,quantity,price
+1,2025-01-05,John Smith,Camera,2,800
+2,2025-01-06,,SSD,3,20
+3,2025-02-10,Mary Jane,DisplayMN,,180
+4,invalid_date,David Lee,Wireless Keyboard,1,30
+5,2025-03-01,Alice Brown,Smart Phone,1,

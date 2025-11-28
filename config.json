@@ -1,0 +1,7 @@
+{
+  "server": "BIT-PC",
+  "database": "SalesDW",
+  "username": "codebot",
+  "password": "drsys",
+  "table": "fact_sales"
+}
